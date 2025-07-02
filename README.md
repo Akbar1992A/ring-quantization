@@ -9,12 +9,13 @@ Official implementation of **"Ring Quantization: Achieving 89% Accuracy on CIFAR
 
 ## 🚀 Key Results
 
-- **89.99%** accuracy on CIFAR-10 with **3-bit** weights (ResNet-20)
-- **89.27%** accuracy on CIFAR-10 with **2-bit** weights (ResNet-20)
+- **90.01%** accuracy on CIFAR-10 with **3-bit** weights on **ResNet-32**, proving scalability.
+- **89.99%** accuracy on CIFAR-10 with **3-bit** weights (ResNet-20).
+- **89.27%** accuracy on CIFAR-10 with **2-bit** weights (ResNet-20), losing only 0.72% accuracy.
 - **16× compression** with minimal accuracy loss
 - **State-of-the-art** results for extreme quantization
 
-## 📊 Comparison with Existing Methods
+## 📊 Performance Overview
 
 | Method | Bits | CIFAR-10 Accuracy | Compression |
 |--------|------|-------------------|-------------|

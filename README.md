@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Akbarali Xalilov - [bigdatateg@gmail.com]
 
-Project Link: [https://github.com/username/ring-quantization](https://github.com/Akbar1992A/ring-quantization)
+Project Link: [https://github.com/Akbar1992A/ring-quantization](https://github.com/Akbar1992A/ring-quantization)
 
 ---
 

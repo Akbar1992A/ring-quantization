@@ -1,6 +1,6 @@
 # Ring Quantization: 2-bit Neural Networks with 89% Accuracy
 
-> 📢 **Update (July 2, 2025)**: Full code will be uploaded by end of day. Paper and results are already available below.
+> 📢 **Update (July 2, 2025)**: The full codebase and pretrained models are being prepared for release and will be uploaded shortly.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15788294.svg)](https://doi.org/10.5281/zenodo.15788294)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

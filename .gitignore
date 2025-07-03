@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+
+# Datasets
+data/
+*.tar.gz
+*.zip
+
+# Model checkpoints (except pretrained)
+*.pth
+*.pt
+!pretrained/*.pth
+!pretrained/*.pt
+
+# Logs
+*.log
+logs/
+runs/
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/

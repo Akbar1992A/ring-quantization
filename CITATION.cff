@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Xalilov"
+    given-names: "Akbarali"
+title: "Ring Quantization: Near-Lossless 2-bit and 3-bit Deep Networks"
+version: 2.0
+doi: 10.5281/zenodo.15800775
+date-released: 2025-07-03
+url: "https://github.com/Akbar1992A/ring-quantization"

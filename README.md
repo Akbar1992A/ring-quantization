@@ -1,5 +1,7 @@
 # Ring Quantization: Near-Lossless 2-bit and 3-bit Deep Networks
 
+> ⚠️ **Note**: Currently seeking arXiv endorsement (cs.LG). If you can help: Code `A8LO9P`, Contact: bigdatateg@gmail.com
+
 [![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15800775.svg)](https://doi.org/10.5281/zenodo.15800775)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
